@@ -1,0 +1,19 @@
+{
+  "name": "w9d1",
+  "version": "1.0.0",
+  "description": "Hari's Asteroids",
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harivmasoor/W9D1.git"
+  },
+  "keywords": [],
+  "author": "Hari Masoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harivmasoor/W9D1/issues"
+  },
+  "homepage": "https://github.com/harivmasoor/W9D1#readme"
+}
